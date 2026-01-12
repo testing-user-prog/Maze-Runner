@@ -6,6 +6,7 @@ This project is a Maze runner game developed using C++ and SFML as the graphics 
 ->Paste all the files into your Project folder and run the code.
 
 **#About the Project**
+
 The game consists of three levels, in which first level just tells the controls of the game, the second level makes user to explore all paths of the maze and the third level is actually a bit tricky in which the user has collect all the collectibles from the complicated maze in short time!
 **#Start-screen**
 <img width="478" height="535" alt="image" src="https://github.com/user-attachments/assets/aaa7d8f3-63c6-4c63-ac1b-2a2cd13bfb43" />
